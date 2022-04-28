@@ -1,1 +1,8 @@
-# Login-Signup-System-NodeJS-MongoDB
+# Login-Signup-System
+
+
+#### TECH:
+  > HTML CSS BS
+  > ExpressJS
+  > NodeJS
+  > MongoDB
