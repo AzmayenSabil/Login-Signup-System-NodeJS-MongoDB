@@ -2,7 +2,7 @@
 
 
 #### TECH:
-  > HTML CSS BS
-  > ExpressJS
-  > NodeJS
+  > HTML CSS BS,
+  > ExpressJS,
+  > NodeJS,
   > MongoDB
